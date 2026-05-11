@@ -14,7 +14,6 @@ jobs:
     - name: Build
       uses: 4d/build4d-action@main
       with:
-        product-line: "21.x"
-        version: "21.0"
-        build: "100465"
-
+        product-line: "21Rx"
+        version: "21R3"
+        build: "100093"
